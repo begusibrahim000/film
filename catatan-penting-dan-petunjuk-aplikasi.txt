@@ -1,0 +1,53 @@
+========================================== Asslamualaikum warohmatullahi wabarokatu ==========================================
+Submission di tolak karna tidak memenuhi persysaratan minimal,maaf waktu itu saya tidak mengerjakan maximal karna ada project yang harus diselesaikan dan juga target dari tutorial dicoding,tapi materinya sudah dipahami.
+=================== BEGUS IBRAHIM | A FULLSTACK DEVELOPER | FREELANCER ON SRIBULANCER | 14 - 04 - 2020 / Malam Selasa ==============================
+Perbaikan,sekarang saya ada waktu memperbaiki submission <belajar-fundamental-frond-end-web-development /> setelah pekerjaan kalkulator saham 99% sudah beres.
+=================== BEGUS IBRAHIM | A FULLSTACK DEVELOPER | FREELANCER ON SRIBULANCER | 15 - 05 - 2020 / Malam Selasa ==============================
+# Aplikasi pencarian film sederhana
+# Tugas Submission dicoding dengan kelas : Belajar Fundamental Frond-End Web Development
+
+Perkenalkan nama saya begus ibrahim,tahun 2020 ini saya baru lulus dari SMKN 1 TALAGA https://smkn1talaga.sch.id/ ,semenjak kelas 11 saya bekerja sampingan di sribulancer dan bekerja membuat website untuk client khususnya sribulancer atau offline dan sekarang saya mulai lagi mengerjakan project setelah sebelum lulus beberapa minggu saya langsung mengerjakan project kalkulator saham dari client bapak yanto di sribulancer setelah membereskan pekerjaan sekolah.
+
+Bila Pihak Dicoding ingin tau bisa mencari nama saya "begus ibrahim" di sribulancer atau bisa mitra bisnis lewat karya programming dengan saya.
+
+* cari freelancer :
+https://www.sribulancer.com/id/bf/freelancer/v4?utf8=%E2%9C%93&by_keyword=begus+ibrahim&have_review=on
+* review :
+https://www.sribulancer.com/id/users/myjobs12345
+* chat & negoisasi :
+https://www.sribulancer.com/id/direct_hirings/new-v2
+
+Link bukti salah satu project yang sedang dikerjakan yaitu aplikasi kalkulator saham berbasis web dari client pak yanto yang sebentar lagi akan di onlinekan :
+
+https://www.sribulancer.com/id/jobs/865/website-e-commerce-toko-online/buat-baru-website-kalkulator-majalah-dinding-5e857f506acb1e622deb8bd0
+https://hitungan.net
+
+Saya mengikuti kelas ini karna memakai framework laravel + vue.js sudah lama,tetapi saya butuh merefresh materi fundamental bagian frond-end nya untuk pekerjaan di vue.js.
+
+Kalau ada kesempatan dan waktu luang saya siap mengerjakan project kompleks bila dibutuhkan di dicoding.
+
+Saya juga telah mengikuti beasiswa yang diselengarakan oleh IDcamp di dicoding,semoga bisa bekerja sama.
+
+Terimakasih atas materi di kelas dicoding ini,sangat membantu pekerjaan saya dan menyenangkan :)
+
+Semoga Di Terima submission nya.
+
+================================================================================================================
+# System aplikasi : 
+	1.Menggunakan standar ES6 dalam menuliskan kode JavaScript
+	2.Terdapat minimal satu penerapan custom element
+	3.Menggunakan Webpack sebagai module bundler dan environment development
+	4.kan API dengan menggunakan konsep AJAX
+# Cara memakai aplikasi film :
+	1.Simpan project di web server seperti apache yang umumnya memakai xampp di folder htdocs ( agar menghindari error di block oleh CORS )
+	2.Masuk ke path project film di terminal,misal -> C:\xampp\htocs\film
+	3.Install plugin yang di butuhkan dengan mengetikan perintah " npm install "
+	4.Jalankan aplikasi dengan mengetikan perintah " npm run start-dev " di terminal
+	5.Buka url di browser dengan alamat http://localhost:8080/
+	6.Nikmati aplikasi dengan pasilitas mencari film kesukaan kita :D , Kalau saya suka film shooter / film genre perang sniper
+# Alasan membuat aplikasi :
+    - saya membuat aplikasi dengan berdasarkan inovasi yang di serahkan ke sisw dari pihak dicoding
+================================================================================================================
+
+SALAM
+BEGUS IBRAHIM
